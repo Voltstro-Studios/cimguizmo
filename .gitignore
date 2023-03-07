@@ -1,0 +1,41 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+cimguizmo/Debug/
+cimguizmo/cimguizmo.opensdf
+cimguizmo/cimguizmo.sdf
+cimguizmo/cimguizmo.v12.suo
+cimguizmo/Release/
+.idea
+cimguizmo/.vs/
+cimguizmo/cimguizmo.vcxproj.user
+cimguizmo/x64/
+
+# Test / Build
+bld/
+build/
